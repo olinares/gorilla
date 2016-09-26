@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design need to be better"
+title:  "Breathe life to an older computer with a Solid State upgrade"
 date:   2014-05-05 20:37:53 +0800
 author: Andy Budd
 ---
