@@ -4,7 +4,7 @@
     <h2>Tech Support to your door!</h2>
     <h3>Windows, Mac, Mobile, Home Automation</h3>
     <div class='two spacing'></div>
-    <a class='button boxed'>Book Now</a>
+    <a class='button boxed' href='https://gorillatech.appointlet.com'>Book Now</a>
 - image: slide-2.jpg
   desc_location: left
   desc:
