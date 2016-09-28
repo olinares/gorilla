@@ -98,6 +98,9 @@
       <script src='{{ site.url }}/js/jquery.countTo.js'></script>
       <script src='{{ site.url }}/js/jquery.appear.js'></script>
       <script src='{{ site.url }}/js/app.js'></script>
+        {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+        {% endif %}
     </body>
     <script src='https://cdn.slaask.com/chat.js'></script><script>    _slaask.init('b4bae1aa02aaed8cb72492ef965d50f1');</script>
 </html>
