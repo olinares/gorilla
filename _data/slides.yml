@@ -2,7 +2,7 @@
   desc_location: right
   desc:
     <h2>Tech Support to your door!</h2>
-    <h3>Windows, Mac, Mobile, Home Automation</h3>
+    <p>Windows, Mac, Mobile, Home Automation</p>
     <div class='two spacing'></div>
     <a class='button boxed' href='https://gorillatech.appointlet.com'>Book Now</a>
 - image: slide-2.jpg
