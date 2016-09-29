@@ -1,5 +1,5 @@
-- image: slide-1.jpg
-  desc_location: center
+- image: slide-1.png
+  desc_location: right
   desc:
     <h2>Tech Support to your door!</h2>
     <h3>Windows, Mac, Mobile, Home Automation</h3>
@@ -18,7 +18,7 @@
     <h2>Home WiFi Setup & Help</h2>
     <h3>Is your internet connection slow as molasses?</h3>
     <div class='two spacing'></div>
-    <a class='button boxed'>Book Now</a>
+    <a class='button boxed' href='https://gorillatech.appointlet.com>Book Now</a>
 - image: slide-4.jpg
   desc_location: right
   desc:
@@ -32,4 +32,4 @@
     <h2>Made in the USA</h2>
     <h3>Our entire staff is in the US!</h3>
     <div class='two spacing'></div>
-    <a class='button boxed'>Book Now</a>
+    <a class='button boxed href='https://gorillatech.appointlet.com'>Book Now</a>
