@@ -1,7 +1,16 @@
 // Foundation JavaScript
 // Documentation can be found at: http://foundation.zurb.com/docs
-$(document).foundation();
-
+$(document).foundation({
+  orbit: {
+    animation: 'fade',
+    timer_speed: 2500,
+    pause_on_hover: true,
+    animation_speed: 500,
+    navigation_arrows: false,
+    bullets: false,
+    circular: true,
+  }
+});
 
 (function($) {
   $(document).ready(function() {

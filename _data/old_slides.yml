@@ -1,0 +1,28 @@
+- image: slide-1.png
+  desc_location: right
+  desc:
+    <h2>Tech Help for San Francisco & the East Bay</h2>
+    <h3>Meet your New IT Team.</h3>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Learn More</a>
+- image: slide-1.png
+  desc_location: right
+  desc:
+    <h2>Home WiFi Setup & Help</h2>
+    <h3>Is your internet connection slow as molasses?</h3>
+    <div class='two spacing'></div>
+    <a class='button boxed' href='https://gorillatech.appointlet.com'>Book Now</a>
+- image: slide-1.png
+  desc_location: right
+  desc:
+    <h2>Our gorilla techs</h2>
+    <h3>Are the best in the industry</h3>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Learn More</a>
+- image: slide-1.png
+  desc_location: right
+  desc:
+    <h2>100% U.S. Customer Support</h2>
+    <h3>We speak your language</h3>
+    <div class='two spacing'></div>
+    <a class='button boxed' href='https://gorillatech.appointlet.com'>Book Now</a>
