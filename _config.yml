@@ -8,3 +8,4 @@ permalink: /:categories/:title
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
