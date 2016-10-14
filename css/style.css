@@ -424,6 +424,18 @@ textarea {
 
 /* slider customization */
 
+.slider img {
+    width: 100%;
+}
+
+.orbit-slides-container{
+    height: 100% !important;
+}
+
+.orbit-container .orbit-slides-container li.active{
+    position:relative;
+}
+
 .orbit-container .orbit-timer, .orbit-container .orbit-slide-number {
   display: none;
 }
@@ -434,6 +446,8 @@ textarea {
 }
 .orbit-container .orbit-slides-container li .orbit-caption {
   top: 60px;
+  width: 100%;
+  height: 100%;
 }
 .orbit-container img {
   width: 100%;
