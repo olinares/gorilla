@@ -4,3 +4,6 @@
 - name: About
   path: about.html
   section_id: about
+- name: Blog
+  path: blog/
+  section_id: blog

@@ -1,4 +1,5 @@
 name: gorilla tech
+tagline: tech support to your door
 markdown: kramdown
 highlighter: pygments
 excerpt_separator: <!--more-->

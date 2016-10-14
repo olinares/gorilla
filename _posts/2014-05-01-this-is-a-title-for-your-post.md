@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing an Apple Extreme Router"
 date:   2014-05-01 20:37:53 +0800
-author: '#codeconuts'
+author: Oscar
 ---
 
 Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id

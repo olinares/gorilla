@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Secure your home with a Ring smart doorbell camera"
-date:   2014-05-05 20:37:53 +0800
-author: Andy Budd
+title:  "Secure your home with a Ring Pro smart doorbell camera"
+date:   2016-10-10 20:37:53 +0800
+author: Oscar
 ---
 
-![computers]({{site.url}}/images/blog-people.jpg)
+![Ring Pro Installation]({{site.url}}/images/ring-installation.png)
 
 Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
 
