@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 paginate: 3
 paginate_path: "blog/page:num"
 permalink: /:categories/:title
+post_dirs: false
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
