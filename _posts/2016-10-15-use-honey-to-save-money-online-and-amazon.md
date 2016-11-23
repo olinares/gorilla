@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Use Honey to save money online and Amazon purchases"
+image: '{{site.url}}/images/honey-app.png'
 date:   2016-10-15 14:37:53 +0800
 author: Oscar
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Secure your home with a Ring Pro smart doorbell camera"
-date:   2016-10-10 20:37:53 +0800
+title: "Secure your home with a Ring Pro smart doorbell camera"
+image: '{{site.url}}/images/ring-installation.png'
+date: 2016-10-10 20:37:53 +0800
 author: Oscar
 ---
 
