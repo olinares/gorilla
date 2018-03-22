@@ -7,7 +7,7 @@ paginate: 3
 paginate_path: "blog/page:num"
 permalink: /:categories/:title
 post_dirs: false
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
