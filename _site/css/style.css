@@ -137,9 +137,11 @@ h1, h2, h3, h4 {
 .top-bar .name h1 img {
   display: inline;
 }
+
 .top-bar .name h1 a {
   display: inline;
   padding-left: 10px;
+  font-size: 1.4rem;
 }
 
 .top-bar-section .dropdown li:not(.has-form) a:not(.button) {
@@ -433,6 +435,49 @@ textarea {
   font-size: 14px;
 }
 
+/* hero customization */
+
+.hero-section {
+  background: url("/images/slide-1.png") 50% no-repeat;
+  background-size: cover;
+  height: 60vh;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.hero-section .hero-section-text h2 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  padding: 9px 10px 4px;
+  font-size: 2.75rem;
+  letter-spacing: 3px;
+}
+
+.hero-section .hero-section-text h3 {
+  color: white;
+  padding: 9px 10px 4px;
+  font-size: 1.75rem;
+  letter-spacing: 2px;
+}
+
+.hero-section .hero-section-text p {
+  color: #fcbf31;
+  padding: 10px 9px 4px;
+  display: inline-block;
+  width: 80%;
+  font-style: italic;
+  font-size: 1.25rem;
+}
+
 /* slider customization */
 
 .slider img {
@@ -460,6 +505,7 @@ textarea {
 }
 .orbit-container img {
   width: 100%;
+  height: auto !important;
 }
 
 .caption-right {

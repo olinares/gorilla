@@ -4,6 +4,8 @@
 - name: About
   path: about
   section_id: about
-- name: Blog
-  path: blog/
-  section_id: blog
+- name: Book Now
+  path: book-services
+# - name: Blog
+#   path: blog/
+#   section_id: blog
