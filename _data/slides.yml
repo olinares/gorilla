@@ -2,8 +2,8 @@
   desc_location: right
   desc:
     <h2>Tech Support To Your Door!</h2>
-    <p>Our mission is to bring Tech Happiness to the East Bay</p>
-    <p>with great value and outstanding service</p>
+    <h3>Home or Business, we come to you!</h3>
+    <p>We support Windows, Mac and Home Automation!</p>
     <h3>925-385-8667</h3>
     <div class='two spacing'></div>
     <a class='button boxed' data-appointlet-organization="gorillatech">Book A Tech Now</a>
