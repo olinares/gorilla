@@ -1,8 +1,10 @@
 <div class='full light-grey no-padding'>
   <div class='spacing'></div>
-  <div class='row'>
+  <div class='row text-center'>
+    <h2>Mac, Windows, WiFi, Printers</h2>
+    <h3>We've got you covered!</h3>
     {% for client in site.data.clients %}
-      <div class='small-6 large-2 columns'>
+      <div class='small-12 large-2 columns text-center'>
         <img src='{{site.url}}/images/{{client.image}}'>
       </div>
     {% endfor %}
