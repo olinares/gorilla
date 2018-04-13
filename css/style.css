@@ -126,6 +126,13 @@ h1, h2, h3, h4 {
   background-size: cover;
 }
 
+/* responsive images  */
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 /*header */
 .top-bar .name h1 img {
   display: inline;
@@ -143,6 +150,10 @@ h1, h2, h3, h4 {
 .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
   background: #444444;
   color: #eeeeee;
+}
+
+.top-bar-section .signup-button {
+  background-color: #1d92cf !important;
 }
 
 /*special title */
