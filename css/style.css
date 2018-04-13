@@ -427,7 +427,7 @@ textarea {
 }
 .footer h1 {
   color: #eeeeee;
-  font-size: 48px;
+  font-size: 36px;
 }
 .footer p.copyright {
   padding: 40px 0 0;
@@ -541,11 +541,11 @@ textarea {
 }
 
 .orbit-caption p {
-  padding: 10px 9px 4px;
+  padding: 30px 9px 4px;
   display: inline-block;
   width: 80%;
   font-style: italic;
-  font-size: 1.25rem;
+  font-size: .075rem;
 }
 
 @media only screen and (max-width: 480px) {
