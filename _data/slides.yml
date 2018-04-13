@@ -6,4 +6,4 @@
     <p>We support Windows, Mac and Home Automation!</p>
     <h3>925-385-8667</h3>
     <div class='two spacing'></div>
-    <a class='button boxed' data-appointlet-organization="gorillatech">Book A Tech Now</a>
+    <a class='button boxed' href='book-services'>Book A Tech Now</a>
