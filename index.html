@@ -107,9 +107,11 @@ works:
     <div class='large-12 columns'>
       <div class='three spacing'></div>
       <h2>What Our Customers are saying</h2>
-      {% include thumbtack-badge.html %}
-      <!-- {% include yelp.html %} -->
-      <!-- <a href="https://goo.gl/maps/ZKiPwyan4yx"> <img src="{{site.url}}/images/client1.png" alt="Google Reviews"></a> -->
+      <ul class="small-block-grid-3 large-block-grid">
+        <li><a href="https://www.yelp.com/biz/gorilla-tech-computer-support-oakley" target="_blank"><i style="font-size:5em; color:#af0606" class="fab fa-yelp"></i></a></li>
+        <li>{% include thumbtack-badge.html %}</li>
+        <li><a href="https://goo.gl/maps/RrrrphTswa42" target="_blank"><i style="font-size:5em; color:#4285f4" class="fab fa-google"></i></a></li>
+      </ul>
       <img class='centered' src='{{site.url}}/images/design-show.png'>
     </div>
   </div>
