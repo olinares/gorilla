@@ -1,6 +1,8 @@
 - name: Home
   path:
   section_id: home
+- name: Services
+  path: services
 - name: Who We Are
   path: about
   section_id: about
